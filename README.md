@@ -20,16 +20,16 @@ The application demonstrates how a minimal Python web service can be containeriz
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Eshitamjn20/SWE40006_Task4.2.git
-   cd flask-hello-world
+   cd SWE40006_Task4.2
    ```
 2. ** Set up a Python environment **
    ```bash
    python -m venv venv
    venv\Scripts\activate
    ```
-3. ** Install reuirements **
+3. ** Install requirements **
    ```bash
-   pip install -r requirements.txt\
+   pip install -r requirements.txt
    ```     
 4. ** Run the app **
    ```bash
