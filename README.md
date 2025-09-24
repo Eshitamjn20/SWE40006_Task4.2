@@ -19,7 +19,7 @@ The application demonstrates how a minimal Python web service can be containeriz
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/flask-hello-world.git
+   git clone https://github.com/Eshitamjn20/SWE40006_Task4.2.git
    cd flask-hello-world
    ```
 2. ** Set up a Python environment **
@@ -45,6 +45,10 @@ The application demonstrates how a minimal Python web service can be containeriz
     docker run -d -p 4000:80 eshita20/py-hello:1.1
 
    ```
+## 👩‍💻 Author  
+
+**Eshita Mahajan (104748964)**  
+SWE40006 – Software Deployment and Evolution (Semester II, 2025)  
 
    
 
